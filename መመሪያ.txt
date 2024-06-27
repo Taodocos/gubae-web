@@ -1,0 +1,11 @@
+ ሲስተሙን ለመጠቅም ሚያስፈልጉ ነግሮች
+         1.ይሀን ሙሉ folder local disk c/xamp/htdocs/    ማስቀመጥ
+         1. xamp ማስነሳት 
+         3.browser መክፈት
+         4.ሰርች ባር ላይ ይህን መጻፍ ===> "http://localhost/GIBI_WEB/"
+         5 GO TO LOGIN PAGE THE USE ONE OF THE FOLLOWING ACCOUNTS 
+            5.1 USERNAM == "GIBI" PASSWORD "2721"
+            5.2 USERNAM == "KUBO" PASSWORD "2719"
+            5.3 USERNAM == "ROMI" PASSWORD "75"
+        6. THE U CAN DO WHAT ELSE THE SYSTEM DESIGNED TO PERFORM
+        7.LOGOUT IS NESSASARY AFTER FINSHIN.
